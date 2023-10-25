@@ -1,2 +1,2 @@
 x = 6
-print(x)
+print(x)   //6
